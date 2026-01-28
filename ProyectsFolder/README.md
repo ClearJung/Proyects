@@ -21,7 +21,7 @@ El sistema almacena la información de forma persistente utilizando archivos JSO
 
 -Persistencia de datos en archivo JSON
 
-Tecnologías:
+# Tecnologías:
 
 -Python 3
 
