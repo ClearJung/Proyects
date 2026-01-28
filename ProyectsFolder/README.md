@@ -1,9 +1,9 @@
-Student Management System (Python)
+#Student Management System (Python)
 
 Sistema en consola desarrollado en Python que permite gestionar estudiantes, registrar notas, calcular promedios y determinar si un estudiante aprueba o desaprueba.
 El sistema almacena la información de forma persistente utilizando archivos JSON.
 
-Funcionalidades:
+#Funcionalidades:
 
 -Registrar estudiantes
 
@@ -27,7 +27,7 @@ Tecnologías:
 
 -JSON
 
-student-management-system-python/
+#student-management-system-python/
 
 │
 
@@ -37,7 +37,7 @@ student-management-system-python/
 
 ├── README.md
 
-Ejecución:
+#Ejecución:
 
 Clonar repositorio
 
@@ -45,7 +45,7 @@ Ejecutar:
 
 python main.py
 
-Autor:
+#Autor:
 
 -Matias Ives Huertas.
 
