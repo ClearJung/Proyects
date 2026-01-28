@@ -30,7 +30,9 @@ Tecnologías:
 student-management-system-python/
 │
 ├── main.py
+
 ├── estudiantes.json
+
 ├── README.md
 
 Ejecución:
